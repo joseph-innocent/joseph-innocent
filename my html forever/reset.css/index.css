@@ -1,0 +1,11 @@
+/* CATERGORY SECTION*/
+.index-category{
+    width: 100%;
+    padding: 60px 0;
+    background-color: white;
+}
+.index-category-box {
+    width: 120px;
+    height: 120px;
+    background-color: red;   
+}

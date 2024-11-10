@@ -1,0 +1,23 @@
+body{
+    background-image: url(images.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: BLUE;
+    font-size: 30px;
+    font-family: verdana;
+}
+button{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
